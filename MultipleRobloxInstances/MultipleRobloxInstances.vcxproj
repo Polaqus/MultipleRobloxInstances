@@ -23,6 +23,7 @@
     <ProjectGuid>{C4EA5624-1E61-4ABF-9D21-D3C48CD4BFCB}</ProjectGuid>
     <RootNamespace>MultipleRoblox</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>MultipleRobloxInstances</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
